@@ -34,7 +34,7 @@ Built with **HTML and CSS** — no JavaScript required. Demonstrates smooth, vie
 
 ## 🚀 How to Run
 
-- go to this page `https://sawelikudasow.github.io/AnimationOnScroll/`
+- Visit [this page](https://sawelikudasow.github.io/AnimateOnScroll/).
 
 ---
 
